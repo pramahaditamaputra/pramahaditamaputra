@@ -1,4 +1,4 @@
-[![JS Mastery Pro](https://media.licdn.com/dms/image/v2/D5616AQGt3gs0HlveNg/profile-displaybackgroundimage-shrink_350_1400/B56ZZWCtzZGsAY-/0/1745200275217?e=1780531200&v=beta&t=eRJgnldC5qcZk22oVAe6RucrjEUsgJ5xeSlDLyQvCrg)](https://www.linkedin.com/in/pramahadi-tama-putra)
+[![Banner]([https://media.licdn.com/dms/image/v2/D5616AQGt3gs0HlveNg/profile-displaybackgroundimage-shrink_350_1400/B56ZZWCtzZGsAY-/0/1745200275217?e=1780531200&v=beta&t=eRJgnldC5qcZk22oVAe6RucrjEUsgJ5xeSlDLyQvCrg](https://drive.google.com/file/d/1SO3MxDy2fpVn69Hktt1uWDQvDgLVKSDd/view?usp=sharing))](https://www.linkedin.com/in/pramahadi-tama-putra)
 
 # Hi, I'm Pramahadi Tama Putra! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
